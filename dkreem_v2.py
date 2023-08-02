@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import Scrollbar, Text, INSERT, END
 
 # Step 3: Set up OpenAI GPT-3.5 API
-openai.api_key = "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"
+openai.api_key = "OpenAI GPT-3.5 API"
 
 # Step 4: Define the AI Voice Assistant Function
 class VoiceAssistant(tk.Tk):
